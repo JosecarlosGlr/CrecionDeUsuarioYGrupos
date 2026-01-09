@@ -2,7 +2,7 @@
 
 
 
-# Diferencias entre Permisos de Usuario y Permisos de Grupo
+### Diferencias entre Permisos de Usuario y Permisos de Grupo
 
 * **Permisos de Grupo (Plantilla Global):**
   Actúan como una **configuración base**. Se definen una única vez y se aplican automáticamente a todos los usuarios que se añadan a dicho grupo.
