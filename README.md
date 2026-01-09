@@ -1,6 +1,20 @@
 # Creción de usuarios y grupos
 
+![](https://raw.githubusercontent.com/JosecarlosGlr/CrecionDeUsuarioYGrupos/refs/heads/main/1.png)
 
+Aqui configuro grupo con permisos limitados y defino el directorio raiz
+
+![](https://raw.githubusercontent.com/JosecarlosGlr/CrecionDeUsuarioYGrupos/refs/heads/main/2.png)
+
+Defino los limites de conexión de carga y descarga
+
+![](https://raw.githubusercontent.com/JosecarlosGlr/CrecionDeUsuarioYGrupos/refs/heads/main/3.png)
+
+Creo el usuario1 y lo agrego al grupo que he creado previamente
+
+![](https://raw.githubusercontent.com/JosecarlosGlr/CrecionDeUsuarioYGrupos/refs/heads/main/4.png)
+
+Creo de igual forma el usuario2 y lo agrego al grupo que he creado previamente
 
 ### Diferencias entre Permisos de Usuario y Permisos de Grupo
 
